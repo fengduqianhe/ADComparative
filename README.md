@@ -17,7 +17,7 @@ All MRIs were prepocessed by a standard pipeline in CAT12 toolbox
 which is avaiable at `http://dbm,neuro.uni-jena.de/cat/`.
 
 The MIRIAD is also a database of sMRI brain volume scans of
-Alzheimer’s disease patients and healthy elderly people.
+Alzheimer’s disease patients and healthy elderly people. https://www.ucl.ac.uk/drc/research/methods/minimal-interval-resonance-imaging-alzheimers-disease-miriad
 
 ## Prerequisites
 
